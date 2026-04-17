@@ -10,3 +10,6 @@ Interactive terrorism analysis dashboard built using Python (Dash &amp; Plotly) 
 - Year filter
 - Attack type filter
 - Advanced analytics
+
+This project visualizes global terrorism data using interactive maps and filters, enabling users to explore patterns across countries and time.
+
